@@ -1,0 +1,15 @@
+header {
+  border: 1px blue dotted;
+}
+
+.logo {
+  border: 1px red dotted;
+}
+
+nav {
+  border: 1px purple dotted;
+}
+
+nav a {
+  margin-left: 10px;
+}
